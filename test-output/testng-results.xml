@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13533" started-at="2018-06-26T16:39:08Z" finished-at="2018-06-26T16:39:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13533" started-at="2018-06-26T16:39:08Z" finished-at="2018-06-26T16:39:21Z">
+      <class name="com.qa.log4j.concept.Log4JConcept">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.log4j.concept.Log4JConcept@3e9b1010]" name="setUp" is-config="true" duration-ms="12659" started-at="2018-06-26T16:39:08Z" finished-at="2018-06-26T16:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="log4jTest()[pri:0, instance:com.qa.log4j.concept.Log4JConcept@3e9b1010]" name="log4jTest" duration-ms="31" started-at="2018-06-26T16:39:20Z" finished-at="2018-06-26T16:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log4jTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.log4j.concept.Log4JConcept@3e9b1010]" name="tearDown" is-config="true" duration-ms="795" started-at="2018-06-26T16:39:20Z" finished-at="2018-06-26T16:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.log4j.concept.Log4JConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

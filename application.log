@@ -1,0 +1,9 @@
+2018-06-26 22:09:08,075  INFO [main] Log4JConcept:31 - ***************Set up processed started
+2018-06-26 22:09:18,583  INFO [main] Log4JConcept:41 - ***************Set up processed ended
+2018-06-26 22:09:20,725  INFO [main] Log4JConcept:44 - ***************Chrome launched
+2018-06-26 22:09:20,768  INFO [main] Log4JConcept:51 - Title fetched
+2018-06-26 22:09:20,769  INFO [main] Log4JConcept:53 - ***************Now tesing the log methods
+2018-06-26 22:09:20,769  WARN [main] Log4JConcept:55 - warning message
+2018-06-26 22:09:20,770 ERROR [main] Log4JConcept:56 - error message
+2018-06-26 22:09:20,771 FATAL [main] Log4JConcept:57 - fatal message
+2018-06-26 22:09:20,772 DEBUG [main] Log4JConcept:58 - debug message
