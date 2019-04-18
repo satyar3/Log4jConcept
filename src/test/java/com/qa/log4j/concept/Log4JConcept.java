@@ -29,7 +29,7 @@ class Log4JConcept {
 	public void setUp()
 	{
 		log.info("***************Set up processed started");
-		System.setProperty("webdriver.chrome.driver", "C:\\Back Up\\Project Work\\Learning Stuffs\\Selenium Training By Jitendra\\Self Study\\Programs\\FreeCRMTestAutomationUsingPageObjectModel\\src\\main\\java\\com\\crm\\qa\\exe\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\selenium_drivers\\chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 		 options.setExperimentalOption("useAutomationExtension", false);
 		 driver = new ChromeDriver(options);
